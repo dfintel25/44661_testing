@@ -216,3 +216,5 @@ wordcloud
 DataScrubber 
 
 Scripts
+
+spqlalchemy 
